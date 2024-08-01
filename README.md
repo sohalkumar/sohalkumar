@@ -4,6 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohalkumar" alt="sohalkumar" /></a> </p>
 
 - 📫 How to reach me **sohalkumarsingh@gmail.com**
+- 📄 Updated Resume **https://drive.google.com/file/d/1Caa__KKykTGT8N0761soIdnfyPpb-SJo/view?usp=sharing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
